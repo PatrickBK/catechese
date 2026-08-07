@@ -1,0 +1,811 @@
+BEGIN:VCALENDAR
+
+VERSION:2.0
+METHOD:PUBLISH
+
+PRODID:-//ChatGPT//Catechese//NL
+
+X-WR-CALNAME:Catechese
+X-WR-CALDESC:Catechesebijeenkomsten 2026-2027
+
+BEGIN:VEVENT
+
+UID:catechese-1@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20260909T193000
+
+DTEND:20260909T213000
+
+SUMMARY:1e bijeenkomst – Startbijeenkomst
+
+DESCRIPTION:Bijeenkomst: 1e bijeenkomst – Startbijeenkomst\n\nThema:\nStartbijeenkomst\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-2@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20260930T193000
+
+DTEND:20260930T213000
+
+SUMMARY:2e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 2e bijeenkomst\n\nThema:\nWat wij geloven\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-3@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20261021T193000
+
+DTEND:20261021T213000
+
+SUMMARY:3e bijeenkomst – Eucharistie I
+
+DESCRIPTION:Bijeenkomst: 3e bijeenkomst – Eucharistie I\n\nThema:\nGeschiedenis en de Openingsriten\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-4@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20261028T193000
+
+DTEND:20261028T213000
+
+SUMMARY:4e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 4e bijeenkomst\n\nThema:\nWat wij geloven\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-5@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20261111T193000
+
+DTEND:20261111T213000
+
+SUMMARY:5e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 5e bijeenkomst\n\nThema:\nHoe wij de christelijke geheimen vieren\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-6@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20261125T193000
+
+DTEND:20261125T213000
+
+SUMMARY:6e bijeenkomst – Eucharistie II
+
+DESCRIPTION:Bijeenkomst: 6e bijeenkomst – Eucharistie II\n\nThema:\nDe viering van Gods Woord\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-7@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20261209T193000
+
+DTEND:20261209T213000
+
+SUMMARY:7e bijeenkomst – Kerkelijk jaar
+
+DESCRIPTION:Bijeenkomst: 7e bijeenkomst – Kerkelijk jaar\n\nThema:\nDe Veertigdagentijd\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-8@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270106T193000
+
+DTEND:20270106T213000
+
+SUMMARY:8e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 8e bijeenkomst\n\nThema:\nHoe wij de christelijke geheimen vieren\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-9@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270120T193000
+
+DTEND:20270120T213000
+
+SUMMARY:9e bijeenkomst – Eucharistie III
+
+DESCRIPTION:Bijeenkomst: 9e bijeenkomst – Eucharistie III\n\nThema:\nDe viering van de eucharistie\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-10@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270214T110000
+
+DTEND:20270214T120000
+
+SUMMARY:1e zondag van de Veertigdagentijd
+
+DESCRIPTION:Bijeenkomst: 1e zondag van de Veertigdagentijd\n\nThema:\nCatechumenzalving\n\nLocatie:\nSint Jozefkathedraal\nRadesingel 2\n9711 EJ Groningen
+
+LOCATION:Sint Jozefkathedraal\, Radesingel 2\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-11@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270217T193000
+
+DTEND:20270217T213000
+
+SUMMARY:10e bijeenkomst – Kerkelijk jaar
+
+DESCRIPTION:Bijeenkomst: 10e bijeenkomst – Kerkelijk jaar\n\nThema:\nDe Veertigdagentijd\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-12@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270303T193000
+
+DTEND:20270303T213000
+
+SUMMARY:11e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 11e bijeenkomst\n\nThema:\nHoe wij in Christus het ware leven vinden\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-13@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270317T193000
+
+DTEND:20270317T213000
+
+SUMMARY:12e bijeenkomst – Kerkelijk jaar
+
+DESCRIPTION:Bijeenkomst: 12e bijeenkomst – Kerkelijk jaar\n\nThema:\nGoede Week en Pasen\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-14@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270327T103000
+
+DTEND:20270327T113000
+
+SUMMARY:Oefenen voor de opnameviering
+
+DESCRIPTION:Bijeenkomst: Oefenen voor de opnameviering\n\nThema:\nOefenen voor de opnameviering\n\nLocatie:\nSint Jozefkathedraal\nRadesingel 2\n9711 EJ Groningen
+
+LOCATION:Sint Jozefkathedraal\, Radesingel 2\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-15@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270327T220000
+
+DTEND:20270327T233000
+
+SUMMARY:13e bijeenkomst – Paaswake
+
+DESCRIPTION:Bijeenkomst: 13e bijeenkomst – Paaswake\n\nThema:\nMogelijkheid tot opname in de Kerk door Doopsel\, Vormsel en Eucharistie\n\nLocatie:\nSint Jozefkathedraal\nRadesingel 2\n9711 EJ Groningen
+
+LOCATION:Sint Jozefkathedraal\, Radesingel 2\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-16@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270407T193000
+
+DTEND:20270407T213000
+
+SUMMARY:14e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 14e bijeenkomst\n\nThema:\nNog niet bekend\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-17@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270421T193000
+
+DTEND:20270421T213000
+
+SUMMARY:15e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 15e bijeenkomst\n\nThema:\nHoe kunnen wij bidden?\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-18@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270512T193000
+
+DTEND:20270512T213000
+
+SUMMARY:16e bijeenkomst
+
+DESCRIPTION:Bijeenkomst: 16e bijeenkomst\n\nThema:\nNog niet bekend\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-19@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270519T193000
+
+DTEND:20270519T213000
+
+SUMMARY:17e bijeenkomst – Eucharistie IV
+
+DESCRIPTION:Bijeenkomst: 17e bijeenkomst – Eucharistie IV\n\nThema:\nDe Slotriten\n\nLocatie:\nSint Martinusparochie\nRadesingel 4\n9711 EJ Groningen
+
+LOCATION:Sint Martinusparochie\, Radesingel 4\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:catechese-20@chatgpt
+
+DTSTAMP:20260807T000000Z
+
+DTSTART:20270524T110000
+
+DTEND:20270524T120000
+
+SUMMARY:Pinksteren
+
+DESCRIPTION:Bijeenkomst: Pinksteren\n\nThema:\n2e mogelijkheid tot opname in de Kerk\n\nLocatie:\nSint Jozefkathedraal\nRadesingel 2\n9711 EJ Groningen
+
+LOCATION:Sint Jozefkathedraal\, Radesingel 2\, 9711 EJ Groningen
+
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+
+BEGIN:VALARM
+
+TRIGGER:-P1D
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: morgen catechese
+
+END:VALARM
+
+BEGIN:VALARM
+
+TRIGGER:-PT1H
+
+ACTION:DISPLAY
+
+DESCRIPTION:Herinnering: over 1 uur
+
+END:VALARM
+
+END:VEVENT
+
+END:VCALENDAR
